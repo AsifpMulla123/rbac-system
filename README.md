@@ -90,20 +90,20 @@ To run this project locally, follow these steps:
 ### *Setup Instructions:*
 
 1. Clone the repository:
-    bash
-    git clone https://github.com/yourusername/rbac-dashboard.git
+    ```bash
+    git clone [https://github.com/yourusername/rbac-dashboard.git](https://github.com/AsifpMulla123/rbac-system.git)
     cd rbac-dashboard
-    
+    ```
 
 2. Install dependencies:
-    bash
+    ```bash
     npm install
-    
+    ```
 
 3. Start the development server:
-    bash
+    ```bash
     npm run dev
-    
+    ```
 
 4. Open your browser and visit http://localhost:3000.
 
@@ -111,7 +111,10 @@ To run this project locally, follow these steps:
 
 ## *Screenshots*
 
-![Dashboard Screenshot]()
+![Dashboard Screenshot]
+![RBAC-Dashboard1](https://github.com/user-attachments/assets/558320cf-07f0-4d7c-bf9e-76dfa57e0afa)
+![RBAC-Dashboard2](https://github.com/user-attachments/assets/367b5a4b-24e4-404a-a01f-f4f4ca2213db)
+![RBAC-Dashboard3](https://github.com/user-attachments/assets/a70a2bc2-6687-4336-bc64-a3325fa312a5)
 
 Visual preview of the admin dashboard, showcasing user and role management.
 
@@ -133,4 +136,4 @@ Feel free to fork this project and make improvements! If you’d like to contrib
 
 ## *Contact*
 
-For questions or suggestions, feel free to reach out to me at [your.email@example.com](mailto:your.email@example.com).
+For questions or suggestions, feel free to reach out to me at [LinkedIn](https://www.linkedin.com/in/asif-p-mulla).
